@@ -1,4 +1,4 @@
-# ResNet34-ISIC2019
+# UNet-LiTS2017
 基于UNet的肝脏肿瘤多类分割算法
 
 step 0：数据集下载：https://www.kaggle.com/datasets/andrewmvd/lits-pngLiver and Liver Tumor Segmentation
