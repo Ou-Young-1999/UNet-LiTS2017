@@ -1,7 +1,7 @@
 # UNet-LiTS2017
 基于UNet的肝脏肿瘤多类分割算法
 
-step 0：数据集下载：https://www.kaggle.com/datasets/andrewmvd/lits-pngLiver and Liver Tumor Segmentation
+step 0：数据集下载：https://www.kaggle.com/datasets/andrewmvd/lits-png
 
 step 1：使用preprocess切分预处理数据集
 
